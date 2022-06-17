@@ -1,0 +1,4 @@
+{
+  "mongo_uri": "mongodb+srv://root:toor@cluster0.zwk2q.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "YouCantHackIt"
+}
